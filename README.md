@@ -15,10 +15,12 @@
 * 원빈 : InfantryYoon (1.14)
 * 카우 : candy_fox (1.06)
 
+## 동킹
+* 애동 : JaiGuru (0.82)
+
 ## 동키
 * 하솜 : Hasom (0.88)
 * 지훈 : lTeaYeonl (0.81)
-* 겜못 : JaiGuru (0.80)
 * 스톤 : Amanida (0.70)
 
 ## 보스
