@@ -1,30 +1,30 @@
 # 멤버
 ## 신인류
-진우 : TheSwifter (2.31)  
-재썽 : Objective-c (2.27)  
-써주 : seoju (2.17)  
+[진우 : TheSwifter (2.31)](https://dak.gg/profile/TheSwifter)
+[재썽 : Objective-c (2.27)](https://dak.gg/profile/Objective-c)
+[써주 : seoju (2.17)](https://dak.gg/profile/seoju)
 
 ## 인간
-브변 : brody_byun (1.76)  
-녹촙 : DangerCloz (1.63)  
-길띠 : Ginjo- (1.58)  
-도현 : dohyun21 (1.4)  
-엔비 : krazie99 (1.38)  
-짐승 : Younatics (1.2)  
-메바 : SwiftElixir (1.19)  
-원빈 : InfantryYoon (1.17)  
-카우 : candy_fox (1.11)  
-하솜 : Hasom (1.03)  
+[브변 : brody_byun (1.76)](https://dak.gg/profile/brody_byun)
+[녹촙 : DangerCloz (1.63)](https://dak.gg/profile/DangerCloz)
+[길띠 : Ginjo- (1.58)](https://dak.gg/profile/Ginjo-)
+[도현 : dohyun21 (1.4)](https://dak.gg/profile/dohyun21)
+[엔비 : krazie99 (1.38)](https://dak.gg/profile/krazie99)
+[짐승 : Younatics (1.2)](https://dak.gg/profile/Younatics)
+[메바 : SwiftElixir (1.19)](https://dak.gg/profile/SwiftElixir)
+[원빈 : InfantryYoon (1.17)](https://dak.gg/profile/InfantryYoon)
+[카우 : candy_fox (1.11)](https://dak.gg/profile/candy_fox)
+[하솜 : Hasom (1.03)](https://dak.gg/profile/Hasom)
 
 ## 동킹
-* 애동 : JaiGuru (0.82)  
+* [애동 : JaiGuru (0.82)](https://dak.gg/profile/JaiGuru)
 
 ## 동키
-스톤 : Amanida (0.98)  
-지훈 : lTeaYeonl (0.81)  
+[스톤 : Amanida (0.98)](https://dak.gg/profile/Amanida)
+[지훈 : lTeaYeonl (0.81)](https://dak.gg/profile/lTeaYeonl)
 
 ## 보스
-* 보스 : kuumin (0)  
+* [보스 : kuumin (0)](https://dak.gg/profile/kuumin)
 
 <br />
 
@@ -56,41 +56,3 @@ https://discord.gg/S5sCdDY
  - 둘, 인간이 템 달라고 하면 다 줘야 한다.
  - 셋, 인간이 죽여도 암말하지 않고 가만히 있는다.
  - 넷, 우리는 인간에게 모든 템들을 바치며 치킨을 뜯는 승리자가 된다.
- 
- <br />
- 
-# 전적
-https://dak.gg/profile/TheSwifter
-
-https://dak.gg/profile/Objective-c
-
-https://dak.gg/profile/seoju
-
-https://dak.gg/profile/brody_byun 
-
-https://dak.gg/profile/DangerCloz 
-
-https://dak.gg/profile/Ginjo- 
-
-https://dak.gg/profile/dohyun21 
-
-https://dak.gg/profile/krazie99 
-
-https://dak.gg/profile/Younatics 
-
-https://dak.gg/profile/SwiftElixir 
-
-
-https://dak.gg/profile/InfantryYoon 
-
-https://dak.gg/profile/candy_fox 
-
-https://dak.gg/profile/Hasom 
-
-https://dak.gg/profile/JaiGuru 
-
-https://dak.gg/profile/Amanida 
-
-https://dak.gg/profile/lTeaYeonl 
-
-https://dak.gg/profile/kuumin 
