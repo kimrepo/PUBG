@@ -56,3 +56,41 @@ https://discord.gg/S5sCdDY
  - 둘, 인간이 템 달라고 하면 다 줘야 한다.
  - 셋, 인간이 죽여도 암말하지 않고 가만히 있는다.
  - 넷, 우리는 인간에게 모든 템들을 바치며 치킨을 뜯는 승리자가 된다.
+ 
+ <br />
+ 
+# 전적
+https://dak.gg/profile/TheSwifter
+
+https://dak.gg/profile/Objective-c
+
+https://dak.gg/profile/seoju
+
+https://dak.gg/profile/brody_byun 
+
+https://dak.gg/profile/DangerCloz 
+
+https://dak.gg/profile/Ginjo- 
+
+https://dak.gg/profile/dohyun21 
+
+https://dak.gg/profile/krazie99 
+
+https://dak.gg/profile/Younatics 
+
+https://dak.gg/profile/SwiftElixir 
+
+
+https://dak.gg/profile/InfantryYoon 
+
+https://dak.gg/profile/candy_fox 
+
+https://dak.gg/profile/Hasom 
+
+https://dak.gg/profile/JaiGuru 
+
+https://dak.gg/profile/Amanida 
+
+https://dak.gg/profile/lTeaYeonl 
+
+https://dak.gg/profile/kuumin 
