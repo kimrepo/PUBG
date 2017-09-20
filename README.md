@@ -1,30 +1,30 @@
 # 멤버
 ## 신인류
-진우 : TheSwifter (2.31)
-재썽 : Objective-c (2.27)
-써주 : seoju (2.17)
+진우 : TheSwifter (2.31)  
+재썽 : Objective-c (2.27)  
+써주 : seoju (2.17)  
 
 ## 인간
-브변 : brody_byun (1.76)
-녹촙 : DangerCloz (1.63)
-길띠 : Ginjo- (1.58)
-도현 : dohyun21 (1.4)
-엔비 : krazie99 (1.38)
-짐승 : Younatics (1.2)
-메바 : SwiftElixir (1.19)
-원빈 : InfantryYoon (1.17)
-카우 : candy_fox (1.11)
-하솜 : Hasom (1.03)
+브변 : brody_byun (1.76)  
+녹촙 : DangerCloz (1.63)  
+길띠 : Ginjo- (1.58)  
+도현 : dohyun21 (1.4)  
+엔비 : krazie99 (1.38)  
+짐승 : Younatics (1.2)  
+메바 : SwiftElixir (1.19)  
+원빈 : InfantryYoon (1.17)  
+카우 : candy_fox (1.11)  
+하솜 : Hasom (1.03)  
 
 ## 동킹
-* 애동 : JaiGuru (0.82)
+* 애동 : JaiGuru (0.82)  
 
 ## 동키
-스톤 : Amanida (0.98)
-지훈 : lTeaYeonl (0.81)
+스톤 : Amanida (0.98)  
+지훈 : lTeaYeonl (0.81)  
 
 ## 보스
-* 보스 : kuumin (0)
+* 보스 : kuumin (0)  
 
 <br />
 
