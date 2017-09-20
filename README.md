@@ -1,19 +1,30 @@
 # 멤버
 ## 신인류
 [진우 : TheSwifter (2.31)](https://dak.gg/profile/TheSwifter)
+
 [재썽 : Objective-c (2.27)](https://dak.gg/profile/Objective-c)
+
 [써주 : seoju (2.17)](https://dak.gg/profile/seoju)
 
 ## 인간
 [브변 : brody_byun (1.76)](https://dak.gg/profile/brody_byun)
+
 [녹촙 : DangerCloz (1.63)](https://dak.gg/profile/DangerCloz)
+
 [길띠 : Ginjo- (1.58)](https://dak.gg/profile/Ginjo-)
+
 [도현 : dohyun21 (1.4)](https://dak.gg/profile/dohyun21)
+
 [엔비 : krazie99 (1.38)](https://dak.gg/profile/krazie99)
+
 [짐승 : Younatics (1.2)](https://dak.gg/profile/Younatics)
+
 [메바 : SwiftElixir (1.19)](https://dak.gg/profile/SwiftElixir)
+
 [원빈 : InfantryYoon (1.17)](https://dak.gg/profile/InfantryYoon)
+
 [카우 : candy_fox (1.11)](https://dak.gg/profile/candy_fox)
+
 [하솜 : Hasom (1.03)](https://dak.gg/profile/Hasom)
 
 ## 동킹
@@ -21,6 +32,7 @@
 
 ## 동키
 [스톤 : Amanida (0.98)](https://dak.gg/profile/Amanida)
+
 [지훈 : lTeaYeonl (0.81)](https://dak.gg/profile/lTeaYeonl)
 
 ## 보스
