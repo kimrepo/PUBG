@@ -43,6 +43,9 @@
 # 디스코드방
 https://discord.gg/S5sCdDY
 
+# 오픈채팅방
+https://open.kakao.com/o/gmYOXwx
+
 <br />
 
 # 동키 공지
