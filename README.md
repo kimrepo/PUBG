@@ -1,42 +1,47 @@
 # 멤버
 ## 신인류
-[진우 : TheSwifter (2.31)](https://dak.gg/profile/TheSwifter)
 
-[재썽 : Objective-c (2.27)](https://dak.gg/profile/Objective-c)
+* [진우 : TheSwifter (2.64)](https://dak.gg/profile/TheSwifter)
 
-[써주 : seoju (2.17)](https://dak.gg/profile/seoju)
+* [써주 : seoju (2.49)](https://dak.gg/profile/seoju)
+
+* [재썽 : Objective-c (2.46)](https://dak.gg/profile/Objective-c)
+
+* [카우 : candy_fox (2.2)](https://dak.gg/profile/candy_fox)
+
+* [브변 : brody_byun (2.04)](https://dak.gg/profile/brody_byun)
 
 ## 인간
-[브변 : brody_byun (1.76)](https://dak.gg/profile/brody_byun)
 
-[녹촙 : DangerCloz (1.63)](https://dak.gg/profile/DangerCloz)
+* [녹촙 : DangerCloz (1.79)](https://dak.gg/profile/DangerCloz)
 
-[길띠 : Ginjo- (1.58)](https://dak.gg/profile/Ginjo-)
+* [길띠 : Ginjo- (1.72)](https://dak.gg/profile/Ginjo-)
 
-[도현 : dohyun21 (1.4)](https://dak.gg/profile/dohyun21)
+* [엔비 : krazie99 (1.68)](https://dak.gg/profile/krazie99)
 
-[엔비 : krazie99 (1.38)](https://dak.gg/profile/krazie99)
+* [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
 
-[짐승 : Younatics (1.2)](https://dak.gg/profile/Younatics)
+* [원빈 : InfantryYoon (1.51)](https://dak.gg/profile/InfantryYoon)
 
-[메바 : SwiftElixir (1.19)](https://dak.gg/profile/SwiftElixir)
+* [짐승 : Younatics (1.42)](https://dak.gg/profile/Younatics)
 
-[원빈 : InfantryYoon (1.17)](https://dak.gg/profile/InfantryYoon)
+* [하솜 : Hasom (1.38)](https://dak.gg/profile/Hasom)
 
-[카우 : candy_fox (1.11)](https://dak.gg/profile/candy_fox)
+* [메바 : SwiftElixir (1.36)](https://dak.gg/profile/SwiftElixir)
 
-[하솜 : Hasom (1.03)](https://dak.gg/profile/Hasom)
+* [지훈 : lTeaYeonl (1.12)](https://dak.gg/profile/lTeaYeonl)
+
+* [스톤 : Amanida (1.11)](https://dak.gg/profile/Amanida)
 
 ## 동킹
-* [애동 : JaiGuru (0.82)](https://dak.gg/profile/JaiGuru)
+* [애동 : JaiGuru (1.01)](https://dak.gg/profile/JaiGuru)
 
 ## 동키
-[스톤 : Amanida (0.98)](https://dak.gg/profile/Amanida)
 
-[지훈 : lTeaYeonl (0.81)](https://dak.gg/profile/lTeaYeonl)
+동키 졸업을 축하합니다!
 
 ## 보스
-* [보스 : kuumin (0)](https://dak.gg/profile/kuumin)
+* [보스 : kuumin (0.09)](https://dak.gg/profile/kuumin)
 
 <br />
 
