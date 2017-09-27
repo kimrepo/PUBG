@@ -14,6 +14,7 @@
 ## 인간
 
 * [녹촙 : DangerCloz (1.79)](https://dak.gg/profile/DangerCloz)
+<<<<<<< HEAD
 
 * [길띠 : Ginjo- (1.72)](https://dak.gg/profile/Ginjo-)
 
@@ -31,6 +32,25 @@
 
 * [지훈 : lTeaYeonl (1.12)](https://dak.gg/profile/lTeaYeonl)
 
+=======
+
+* [길띠 : Ginjo- (1.72)](https://dak.gg/profile/Ginjo-)
+
+* [엔비 : krazie99 (1.68)](https://dak.gg/profile/krazie99)
+
+* [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
+
+* [원빈 : InfantryYoon (1.51)](https://dak.gg/profile/InfantryYoon)
+
+* [짐승 : Younatics (1.42)](https://dak.gg/profile/Younatics)
+
+* [하솜 : Hasom (1.38)](https://dak.gg/profile/Hasom)
+
+* [메바 : SwiftElixir (1.36)](https://dak.gg/profile/SwiftElixir)
+
+* [지훈 : lTeaYeonl (1.12)](https://dak.gg/profile/lTeaYeonl)
+
+>>>>>>> 4ac671a504e44b6c9ecbc00d40fb11c95a4f35e3
 * [스톤 : Amanida (1.11)](https://dak.gg/profile/Amanida)
 
 ## 동킹
