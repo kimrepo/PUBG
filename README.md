@@ -1,7 +1,7 @@
 # 멤버
 ## 신인류
 
-* [진우 : TheSwifter (2.64)](https://dak.gg/profile/TheSwifter)
+* [진우 : TheSwifter (2.71)](https://dak.gg/profile/TheSwifter)
 
 * [써주 : seoju (2.49)](https://dak.gg/profile/seoju)
 
@@ -9,7 +9,7 @@
 
 * [카우 : candy_fox (2.2)](https://dak.gg/profile/candy_fox)
 
-* [브변 : brody_byun (2.04)](https://dak.gg/profile/brody_byun)
+* [브변 : brody_byun (2.14)](https://dak.gg/profile/brody_byun)
 
 ## 인간
 
@@ -19,28 +19,32 @@
 
 * [엔비 : krazie99 (1.68)](https://dak.gg/profile/krazie99)
 
+* [원빈 : InfantryYoon (1.54)](https://dak.gg/profile/InfantryYoon
+
 * [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
 
-* [원빈 : InfantryYoon (1.51)](https://dak.gg/profile/InfantryYoon)
+* [하솜 : Hasom (1.5)](https://dak.gg/profile/Hasom)
 
 * [짐승 : Younatics (1.42)](https://dak.gg/profile/Younatics)
 
-* [하솜 : Hasom (1.38)](https://dak.gg/profile/Hasom)
-
 * [메바 : SwiftElixir (1.36)](https://dak.gg/profile/SwiftElixir)
 
-* [지훈 : lTeaYeonl (1.12)](https://dak.gg/profile/lTeaYeonl)
+* [지훈 : lTeaYeonl (1.17)](https://dak.gg/profile/lTeaYeonl)
 
 * [스톤 : Amanida (1.11)](https://dak.gg/profile/Amanida)
 
-## 동킹
-* [애동 : JaiGuru (1.01)](https://dak.gg/profile/JaiGuru)
-
 ## 동키
 
-동키 졸업을 축하합니다!
+## 동킹
+동키 재진입을 축하합니다. 당신은 진정한 동키의 왕
+* [애동 : JaiGuru (0.98)](https://dak.gg/profile/JaiGuru)
+
+새로 오신걸 환영합니다. 
+* [올드 : LetSwiftGo (0.41)](https://dak.gg/profile/LetSwiftGo)
+
 
 ## 보스
+지존
 * [보스 : kuumin (0.09)](https://dak.gg/profile/kuumin)
 
 <br />
