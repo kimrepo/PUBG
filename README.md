@@ -13,7 +13,7 @@
 
 ## 인간
 
-* [녹촙 : DangerCloz (1.79)](https://dak.gg/profile/DangerCloz)
+* [녹촙 : DangerCloz (1.81)](https://dak.gg/profile/DangerCloz)
 
 * [길띠 : Ginjo- (1.72)](https://dak.gg/profile/Ginjo-)
 
