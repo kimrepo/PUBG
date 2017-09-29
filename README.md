@@ -19,7 +19,7 @@
 
 * [엔비 : krazie99 (1.68)](https://dak.gg/profile/krazie99)
 
-* [원빈 : InfantryYoon (1.54)](https://dak.gg/profile/InfantryYoon
+* [원빈 : InfantryYoon (1.54)](https://dak.gg/profile/InfantryYoon)
 
 * [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
 
@@ -40,7 +40,7 @@
 * [애동 : JaiGuru (0.98)](https://dak.gg/profile/JaiGuru)
 
 새로 오신걸 환영합니다. 
-* [올드 : LetSwiftGo (0.41)](https://dak.gg/profile/LetSwiftGo)
+* [올프 : LetSwiftGo (0.41)](https://dak.gg/profile/LetSwiftGo)
 
 
 ## 보스
