@@ -23,13 +23,13 @@
 
 * [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
 
+* [지훈 : lTeaYeonl (1.51)](https://dak.gg/profile/lTeaYeonl)
+
 * [하솜 : Hasom (1.5)](https://dak.gg/profile/Hasom)
 
 * [짐승 : Younatics (1.42)](https://dak.gg/profile/Younatics)
 
 * [메바 : SwiftElixir (1.36)](https://dak.gg/profile/SwiftElixir)
-
-* [지훈 : lTeaYeonl (1.17)](https://dak.gg/profile/lTeaYeonl)
 
 * [스톤 : Amanida (1.11)](https://dak.gg/profile/Amanida)
 
