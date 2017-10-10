@@ -1,47 +1,45 @@
 # 멤버
 ## 신인류
 
-* [진우 : TheSwifter (2.71)](https://dak.gg/profile/TheSwifter)
+* [진우 : TheSwifter (2.94)](https://dak.gg/profile/TheSwifter)
 
-* [써주 : seoju (2.49)](https://dak.gg/profile/seoju)
+* [써주 : seoju (2.74)](https://dak.gg/profile/seoju)
 
-* [재썽 : Objective-c (2.46)](https://dak.gg/profile/Objective-c)
-
-* [카우 : candy_fox (2.2)](https://dak.gg/profile/candy_fox)
-
-* [브변 : brody_byun (2.14)](https://dak.gg/profile/brody_byun)
+* [브변 : brody_byun (2.32)](https://dak.gg/profile/brody_byun)
 
 ## 인간
 
-* [녹촙 : DangerCloz (1.81)](https://dak.gg/profile/DangerCloz)
+* [녹촙 : DangerCloz (1.96)](https://dak.gg/profile/DangerCloz)
 
-* [길띠 : Ginjo- (1.72)](https://dak.gg/profile/Ginjo-)
+* [카우 : candy_fox (1.80)](https://dak.gg/profile/candy_fox)
 
-* [엔비 : krazie99 (1.68)](https://dak.gg/profile/krazie99)
+* [길띠 : Ginjo- (1.76)](https://dak.gg/profile/Ginjo-)
 
-* [원빈 : InfantryYoon (1.54)](https://dak.gg/profile/InfantryYoon)
+* [엔비 : krazie99 (1.66)](https://dak.gg/profile/krazie99)
+
+* [메바 : SwiftElixir (1.64)](https://dak.gg/profile/SwiftElixir)
+
+* [원빈 : InfantryYoon (1.63)](https://dak.gg/profile/InfantryYoon)
+
+* [재썽 : Objective-c (1.53)](https://dak.gg/profile/Objective-c)
 
 * [도현 : dohyun21 (1.51)](https://dak.gg/profile/dohyun21)
 
-* [하솜 : Hasom (1.5)](https://dak.gg/profile/Hasom)
+* [지훈 : lTeaYeonl (1.51)](https://dak.gg/profile/lTeaYeonl)
+
+* [하솜 : Hasom (1.50)](https://dak.gg/profile/Hasom)
 
 * [짐승 : Younatics (1.42)](https://dak.gg/profile/Younatics)
 
-* [메바 : SwiftElixir (1.36)](https://dak.gg/profile/SwiftElixir)
+* [올프 : LetSwiftGo (1.32)](https://dak.gg/profile/LetSwiftGo)
 
-* [지훈 : lTeaYeonl (1.17)](https://dak.gg/profile/lTeaYeonl)
-
-* [스톤 : Amanida (1.11)](https://dak.gg/profile/Amanida)
+* [스톤 : Amanida (1.26)](https://dak.gg/profile/Amanida)
 
 ## 동키
 
 ## 동킹
-동키 재진입을 축하합니다. 당신은 진정한 동키의 왕
-* [애동 : JaiGuru (0.98)](https://dak.gg/profile/JaiGuru)
 
-새로 오신걸 환영합니다. 
-* [올프 : LetSwiftGo (0.41)](https://dak.gg/profile/LetSwiftGo)
-
+* [애동 : JaiGuru (1.12)](https://dak.gg/profile/JaiGuru)
 
 ## 보스
 지존
